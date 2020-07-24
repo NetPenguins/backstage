@@ -939,6 +939,26 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@backstage/catalog-model@^0.1.1-alpha.16":
+  version "0.1.1-alpha.16"
+  resolved "https://registry.npmjs.org/@backstage/catalog-model/-/catalog-model-0.1.1-alpha.16.tgz#6d832f6554533e150e094d002b66a5a7679735f5"
+  integrity sha512-uupFWFG6i+YrTR1gJULsk7pN8RULsmHq65roRn677bRSM2nejzV/QnZ2Fgzxoinz6R23HMR//zzX7/p6ZFUiIg==
+  dependencies:
+    "@backstage/config" "^0.1.1-alpha.13"
+    "@types/json-schema" "^7.0.5"
+    "@types/yup" "^0.28.2"
+    json-schema "^0.2.5"
+    lodash "^4.17.15"
+    uuid "^8.0.0"
+    yup "^0.29.1"
+
+"@backstage/config@^0.1.1-alpha.16":
+  version "0.1.1-alpha.16"
+  resolved "https://registry.npmjs.org/@backstage/config/-/config-0.1.1-alpha.16.tgz#03be05e56725ae4969de541eccf84a0912ed6876"
+  integrity sha512-VRrxOghjMQ7QimfoGKtMiZ2ulGdcrbHAW8v410fX9At6sqwCjB74qz+pZp+7NEhOMasNhYywEIpVH0jJXZrV2g==
+  dependencies:
+    lodash "^4.17.15"
+
 "@bcoe/v8-coverage@^0.2.3":
   version "0.2.3"
   resolved "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
@@ -3487,6 +3507,13 @@
   dependencies:
     "@types/node" "*"
 
+"@types/dockerode@^2.5.34":
+  version "2.5.34"
+  resolved "https://registry.npmjs.org/@types/dockerode/-/dockerode-2.5.34.tgz#9adb884f7cc6c012a6eb4b2ad794cc5d01439959"
+  integrity sha512-LcbLGcvcBwBAvjH9UrUI+4qotY+A5WCer5r43DR5XHv2ZIEByNXFdPLo1XxR+v/BjkGjlggW8qUiXuVEhqfkpA==
+  dependencies:
+    "@types/node" "*"
+
 "@types/eslint-visitor-keys@^1.0.0":
   version "1.0.0"
   resolved "https://registry.npmjs.org/@types/eslint-visitor-keys/-/eslint-visitor-keys-1.0.0.tgz#1ee30d79544ca84d68d4b3cdb0af4f205663dd2d"
@@ -3728,6 +3755,13 @@
   version "1.9.1"
   resolved "https://registry.npmjs.org/@types/morgan/-/morgan-1.9.1.tgz#6457872df95647c1dbc6b3741e8146b71ece74bf"
   integrity sha512-2j5IKrgJpEP6xw/uiVb2Xfga0W0sSVD9JP9t7EZLvpBENdB0OKgcnoKS8IsjNeNnZ/86robdZ61Orl0QCFGOXg==
+  dependencies:
+    "@types/node" "*"
+
+"@types/ncp@^2.0.4":
+  version "2.0.4"
+  resolved "https://registry.npmjs.org/@types/ncp/-/ncp-2.0.4.tgz#16c9e7fa2c849d429a1b142648987164b06bf490"
+  integrity sha512-erpimpT1pH8QfeNg77ypnjwz6CGMqrnL4DewVbqFzD9FXzSULjmG3KzjZnLNe7bzTSZm2W9DpkHyqop1g1KmgQ==
   dependencies:
     "@types/node" "*"
 
@@ -7624,6 +7658,14 @@ dockerode@^3.2.0:
   integrity sha512-C+y/W4Kks7YLBsfUOTMkk1IVilb4cdj+rE+UZ5hnE+rpcn2frSs7kX+6H8GteTqHcv8sln+GyxuP1qdno3IzIw==
   dependencies:
     concat-stream "~2.0.0"
+    docker-modem "^2.1.0"
+    tar-fs "~2.0.1"
+
+dockerode@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.npmjs.org/dockerode/-/dockerode-3.2.1.tgz#4a2222e3e1df536bf595e78e76d3cfbf6d4d93b9"
+  integrity sha512-XsSVB5Wu5HWMg1aelV5hFSqFJaKS5x1aiV/+sT7YOzOq1IRl49I/UwV8Pe4x6t0iF9kiGkWu5jwfvbkcFVupBw==
+  dependencies:
     docker-modem "^2.1.0"
     tar-fs "~2.0.1"
 
@@ -13235,6 +13277,11 @@ natural-compare@^1.4.0:
   version "1.4.0"
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
+
+ncp@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.npmjs.org/ncp/-/ncp-2.0.0.tgz#195a21d6c46e361d2fb1281ba38b91e9df7bdbb3"
+  integrity sha1-GVoh1sRuNh0vsSgbo4uR6d9727M=
 
 needle@^2.2.1:
   version "2.4.1"
