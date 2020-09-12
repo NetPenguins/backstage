@@ -13004,10 +13004,10 @@ jest@^26.0.1:
     import-local "^3.0.2"
     jest-cli "^26.4.2"
 
-jose@^1.27.1:
-  version "1.27.1"
-  resolved "https://registry.npmjs.org/jose/-/jose-1.27.1.tgz#a1de2ecb5b3ae1ae28f0d9d0cc536349ada27ec8"
-  integrity sha512-VyHM6IJPw0TTGqHVNlPWg16/ASDPAmcChcLqSb3WNBvwWFoWPeFqlmAUCm8/oIG1GjZwAlUDuRKFfycowarcVA==
+jose@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.npmjs.org/jose/-/jose-2.0.1.tgz#3a2f18a95df8fa7a1b0e888aa7844f60c20f1b1f"
+  integrity sha512-hG09r75ZyZpYy5bg4qKR/qgBFtuBAdFkMkwE2mME41qaRyExSlLDi7ZqW6yA9klwtYovuYLVsHphLtjB4w936A==
   dependencies:
     "@panva/asn1.js" "^1.0.0"
 
@@ -17550,7 +17550,7 @@ react-is@^16.12.0, react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.0, react-i
   resolved "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-lazylog@^4.5.2:
+react-lazylog@^4.5.2, react-lazylog@^4.5.3:
   version "4.5.3"
   resolved "https://registry.npmjs.org/react-lazylog/-/react-lazylog-4.5.3.tgz#289e24995b5599e75943556ac63f5e2c04d0001e"
   integrity sha512-lyov32A/4BqihgXgtNXTHCajXSXkYHPlIEmV8RbYjHIMxCFSnmtdg4kDCI3vATz7dURtiFTvrw5yonHnrS+NNg==
