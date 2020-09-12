@@ -9316,10 +9316,10 @@ es6-weak-map@^2.0.2:
     es6-iterator "^2.0.3"
     es6-symbol "^3.1.1"
 
-esbuild@0.6.3:
-  version "0.6.3"
-  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.6.3.tgz#a957e22f2503c745793514388110f9b55b3a6f83"
-  integrity sha512-4lHgz/EvGLRQnDYzzrvW+eilaPHim5pCLz4mP0k0QIalD/n8Ji2NwQwoIa1uX+yKkbn9R/FAZvaEbodjx55rDg==
+esbuild@0.7.0:
+  version "0.7.0"
+  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.7.0.tgz#71791a6aef71b2fa95352e2948b0e9870a4358b3"
+  integrity sha512-npXbdfc8VGBxEL3HQsKYPbCn2lie2Dhhbm3SwmDBwO5SBwhquD8yuzdnKplwOW35IRxdFfnrKGaPx1PoKn4nng==
 
 escalade@^3.0.1:
   version "3.0.2"
@@ -17550,7 +17550,7 @@ react-is@^16.12.0, react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.0, react-i
   resolved "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-lazylog@^4.5.2:
+react-lazylog@^4.5.2, react-lazylog@^4.5.3:
   version "4.5.3"
   resolved "https://registry.npmjs.org/react-lazylog/-/react-lazylog-4.5.3.tgz#289e24995b5599e75943556ac63f5e2c04d0001e"
   integrity sha512-lyov32A/4BqihgXgtNXTHCajXSXkYHPlIEmV8RbYjHIMxCFSnmtdg4kDCI3vATz7dURtiFTvrw5yonHnrS+NNg==
