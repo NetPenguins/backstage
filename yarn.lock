@@ -10322,10 +10322,10 @@ es6-weak-map@^2.0.2:
     es6-iterator "^2.0.3"
     es6-symbol "^3.1.1"
 
-esbuild@0.6.3:
-  version "0.6.3"
-  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.6.3.tgz#a957e22f2503c745793514388110f9b55b3a6f83"
-  integrity sha512-4lHgz/EvGLRQnDYzzrvW+eilaPHim5pCLz4mP0k0QIalD/n8Ji2NwQwoIa1uX+yKkbn9R/FAZvaEbodjx55rDg==
+esbuild@0.7.7:
+  version "0.7.7"
+  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.7.7.tgz#fd86332d1c0a047231bd6da930666028c40c14bf"
+  integrity sha512-1Ub4BBsWwPdxkwjyuXdKrgMIZROZ82ULIRFclOzXXVrqKOv9rMDoShRf23WEbPfeEA94z/BScKyUOyooyQ3XnQ==
 
 escalade@^3.0.1:
   version "3.0.2"
